@@ -1,0 +1,30 @@
+Cards
+-> Sua doação muda vidas
+Tanto roupas, quanto alimentos e objetos podem ajudar pessoas em situação de vulnerabilidade.
+-> Ajuda na sustentabilidade
+Itens parados ganham uma nova utilidade em vez de serem descartados. Desta forma, ajudando alguém e também o meio ambiente.
+-> Conexão 
+O projeto aproxima quem quer ajudar, de quem realmente precisa de ajuda.
+-> Transformação
+Cada contribuição conta. Mesmo uma única doação faz q diferença.
+-> Facilidade
+Encontre pontos de doação próximos a você. De forma rápida e prática.
+
+// Projeto criado com o intuito de ajudar e gerar um impacto social, dentro e fora da comunidade acadêmica. Cada doação importa! Você pode ajudar alguém.
+
+Podemos criar "caixas" com informações sobre o psiu solidario
+Ex:
+Como atuamos:
+
+Atuamos conectando pessoas a pontos de doação de forma simples e acessível.
+Catalogamos locais de contribuição, facilitamos o acesso às informações e divulgamos necessidades da comunidade para incentivar novas doações.
+
+Nosso intuito:
+Promover a solidariedade, tornando as doações mais simples, acessíveis e conectadas à comunidade.
+
+///
+Botões principais
+-> Doe agora 
+-> Ver pontos de Doação
+-> Ver pontos de coleta
+-> anunciar uma necessidade ou precisa de ajuda? (Decidir um dos nomes)

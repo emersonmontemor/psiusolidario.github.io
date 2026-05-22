@@ -1,0 +1,23 @@
+(01) NOME DO PROJETO: Psiu Solidário
+(02) LINK DA PUBLICAÇÃO DO PROJETO: Pendente.
+(03) PARTICIPANTES E PAPÉIS: 
+Tech Lead - João Gabriel
+Desenvolvedor Front-End 1 - Emerson
+Desenvolvedor Front-End 2 - João Luiz
+Designer Gráfico - Guilherme Augusto 
+Redator de conteúdo/Copywriter - João Gabriel
+
+(04) OBJETIVO PRINCIPAL DO PROJETO: O objetivo é trazer visibilidade da generosidade e facilitar a vida de quem busca fazer uma boa ação.
+(05) DESCRIÇÃO RESUMIDA DO PROJETO: A ideia é desenvolver um site de auxilie com a demanda social relacionada a necessidade. Vamos colocar pontos de doação, classificando-os em diferentes tipos, como ponto de doação de roupas, comida, brinquedos, etc.
+(06) FINALIDADE: O projeto foi desenvolvido para grupos sociais vulneráveis em necessidade de doações.
+(07) PARTICIPAÇÃO: Todos os membros participaram até então, o nome foi decidido em grupo e cada um deu sua opinião para a elaboração do esboço do site.
+(08) APLICAÇÃO DO PROJETO: Pendente.
+
+NOME DAS PÁGINAS:
+Página 01 (Tabela) - Tabela de Contribuições
+Página 02 (Grid) - Por Que Contribuir? 
+Página 03 (Formulário) - Formulário de Contribuição
+Página 04 (Google Maps) - Pontos de Doação
+Página 05 (Landing Page) - Psiu, Solidário!
+Página 06 (JavaScript) - Cálculos de Contribuições
+Página 07 (Sobre) - Conheça a Equipe
